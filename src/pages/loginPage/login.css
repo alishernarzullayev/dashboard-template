@@ -1,0 +1,10 @@
+.login__password {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.login__password--icon {
+  width: auto;
+  background-color: #bbb;
+  padding: 0.5rem;
+}
